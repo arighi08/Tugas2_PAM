@@ -46,7 +46,7 @@ class _hobiState extends State<hobi> {
       ],),
      User(
         username: 'Virgiawan Arighi',
-        hobi: 'Trading',
+        hobi: 'Musik',
        urlAvatar: 'assets/trading.jfif',
       imageUrls: [
         'https://media-cdn.tripadvisor.com/media/photo-o/15/01/d7/4b/p-20180510-153310-01.jpg',
